@@ -1,0 +1,16 @@
+{
+  "zone": "ZONA NORTE",
+  "report_date": "2026-10-17",
+  "time_range": "06:00 a 18:00",
+  "submitted_at": "2026-10-17T06:55:00",
+  "officer": "Capitán A. Sánchez",
+  "personnel_assigned": "18 efectivos",
+  "activities": [
+    "Patrullaje preventivo",
+    "Control de tránsito",
+    "Reforzamiento de seguridad vial"
+  ],
+  "incidents": "2 intervenciones, 1 detención",
+  "observations": "Se reforzó vigilancia en avenidas principales.",
+  "status": "Enviado"
+}
